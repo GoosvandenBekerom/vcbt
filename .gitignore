@@ -1,2 +1,7 @@
+# IDEA files
 .idea/
 *.iml
+
+# project testing binaries/output
+vcbt
+output
