@@ -1,4 +1,4 @@
-module vcbt
+module github.com/GoosvandenBekerom/vcbt
 
 go 1.19
 

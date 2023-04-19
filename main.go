@@ -1,13 +1,15 @@
 package main
 
 import (
-	"cloud.google.com/go/bigtable"
 	"context"
 	"flag"
 	"log"
 	"math"
 	"os"
-	"vcbt/representation"
+
+	"cloud.google.com/go/bigtable"
+
+	"github.com/GoosvandenBekerom/vcbt/representation"
 )
 
 type flags struct {
